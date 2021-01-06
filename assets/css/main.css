@@ -2643,7 +2643,7 @@ input, select, textarea {
 			}
 
 			.image.main img {
-				width: 100%;
+				width: 45%;
 			}
 
 		@media screen and (max-width: 736px) {
@@ -4687,3 +4687,25 @@ input, select, textarea {
 		}
 
 	}
+
+#edit1 {
+	width:35%;
+	float: left;
+	margin-top: 80px;
+}
+
+
+#edit2{
+	display: inline-block;
+	margin-left: 5px;
+	width: 550px;
+
+
+}
+
+#edit3 {
+	display: inline-block;
+	margin-left: 5px;
+	width: 550px;
+}
+
